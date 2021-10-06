@@ -1,0 +1,6 @@
+c:\users\efrain\documents\visual studio 2013\INF-324\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csprojResolveAssemblyReference.cache
+C:\Users\EFRAIN\Documents\Visual Studio 2013\INF-324\Ejercicio4\Ejercicio4\bin\Ejercicio4.dll.config
+C:\Users\EFRAIN\Documents\Visual Studio 2013\INF-324\Ejercicio4\Ejercicio4\bin\Ejercicio4.dll
+C:\Users\EFRAIN\Documents\Visual Studio 2013\INF-324\Ejercicio4\Ejercicio4\bin\Ejercicio4.pdb
+C:\Users\EFRAIN\Documents\Visual Studio 2013\INF-324\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.dll
+C:\Users\EFRAIN\Documents\Visual Studio 2013\INF-324\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
